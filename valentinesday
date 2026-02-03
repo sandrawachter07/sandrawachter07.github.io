@@ -195,9 +195,9 @@
     <!-- Popup -->
     <div class="popup-overlay" id="popup">
         <div class="popup-content">
-            <h2>Yaaay! 🎉</h2>
+            <h2>Yaaay!💕</h2>
             <div class="hearts">💕💖💕</div>
-            <p>Juhuu. Du hast ja gesagt 🥰 </p>
+            <p>Ich freu mich, dass du ja gesagt hast 🥰 </p>
             <p>Du bist die Liebe meines Lebens 💕</p>
             <button class="close-btn" onclick="closePopup()">💕 Schließen</button>
         </div>
