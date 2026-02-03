@@ -197,8 +197,8 @@
         <div class="popup-content">
             <h2>Yaaay! 🎉</h2>
             <div class="hearts">💕💖💕</div>
-            <p>Ich wusste, du würdest Ja sagen!</p>
-            <p>Du machst mich so glücklich! 🥰</p>
+            <p>Juhuu. Du hast ja gesagt 🥰 </p>
+            <p>Du bist die Liebe meines Lebens 💕</p>
             <button class="close-btn" onclick="closePopup()">💕 Schließen</button>
         </div>
     </div>
